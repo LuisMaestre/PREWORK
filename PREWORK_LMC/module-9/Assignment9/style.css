@@ -1,0 +1,15 @@
+h1{text-align:center} 
+<style> 
+
+#para1 {color:red;}
+#para1 {color:red;}
+#para2 {color:blue;}
+#para3 {color:green;}
+#para4 {font-size:200%;}
+#para5 {font-size:50%;}
+#para6 {text-align:center}
+#para7{font-weight:bold;}
+p.para8{font-family: Arial, Helvetica, sans-serif;}
+p.para9{color:orange;}
+p.styledFont{color:green;}
+</style>
